@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/nicholas/AndroidStudioProjects/Musicapp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/home/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/c587f42d4cf11d9c2f811511acbb7eb3/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/nicholas/AndroidStudioProjects/Musicapp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/c587f42d4cf11d9c2f811511acbb7eb3/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
